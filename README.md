@@ -15,6 +15,14 @@ Create an Project number and API key for an Android App on Google Developers Con
 7. Then select "Browser Key" and click "Create".
 8. Once created, the API key will be created and note it down since its required in Server side to push the notification.
 
+
+Inclusion of jar files 
+-----------------------
+
+1. Include gcm.jar into Android project.
+2. Include gcm-server.jar into Server.
+
+
 Configure Manifest file 
 -----------------------
 
