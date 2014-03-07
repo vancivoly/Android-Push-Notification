@@ -8,7 +8,7 @@ public class MainActivity extends Activity  {
 	  ....
 	  
 	  GCMRegistrar.checkDevice(this);
-    GCMRegistrar.checkManifest(this);
+          GCMRegistrar.checkManifest(this);
 	  
 	  GCMRegistrar.register(this, SENDER_ID);//SENDER_ID is the Project Number which you'd created from https://code.google.com/apis/console/ 
 	  ....
