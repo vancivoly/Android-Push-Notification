@@ -13,7 +13,7 @@ Create an Project number and API key for an Android App on Google Developers Con
 5. To enable Push notification for this particular project, click "APIs & auth" on the left pane. Enable "Google Cloud Message for Android".
 6. Click on "Credentials" in the left pane and Click "CREATE NEW KEY".
 7. Then select "Browser Key" and click "Create".
-8. Once created, the API key will be created and note it down since its required in Server side to push the notification.
+8. Once created, the API key(API_KEY) will be created and note it down since its required in Server side to push the notification.
 
 
 Inclusion of jar files 
